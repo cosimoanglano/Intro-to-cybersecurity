@@ -7,11 +7,10 @@ award:
 image: pwncollege/challenge-legacy:latest
 
 description: |
-  Can you feel it?
-  The sun is beginning to rise on your journey of cybersecurity.
-  Armed with the fundamentals, you begin to push ever deeper into the realms of knowledge that previously eluded you.
-  Fear not: with perseverance, grit, and gumption, you will lay the groundwork for a towering mastery of security in your future.
-
+  Questo Dojo contiene il materiale necessario per svolgere le attività pratiche per la parte di cyber security del corso.
+  I vari moduli devono essere seguiti nell'ordine in cui si presentano sullo schermno da sinistra a destra e dall'alto in basso.
+  Per ciascun modulo, bisognerà dapprima seguire tutte le video lezioni che esso prevede.
+  Successivamente, occorrerà risolvere tutte le challenge che esso contiene. 
 type: topic
 
 modules:
