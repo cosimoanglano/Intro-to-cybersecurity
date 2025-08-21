@@ -1,4 +1,0 @@
-#!/bin/bash
-
-dd if=/dev/urandom of=/challenge/.key bs=16 count=1
-chmod 600 /challenge/.key
