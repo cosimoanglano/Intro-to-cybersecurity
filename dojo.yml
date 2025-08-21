@@ -19,6 +19,8 @@ modules:
     dojo: welcome
     module: welcome
 
+    dojo: linux-luminarium
+
 - id: reverse-engineering
 
 - id: binary-exploitation
