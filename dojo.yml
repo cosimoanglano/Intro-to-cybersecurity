@@ -8,14 +8,16 @@ image: pwncollege/challenge-legacy:latest
 
 description: |
   Questo Dojo contiene il materiale necessario per svolgere le attività pratiche per la parte di cyber security del corso.
-  I vari moduli devono essere seguiti nell'ordine in cui si presentano sullo schermno da sinistra a destra e dall'alto in basso.
+  I vari moduli devono essere seguiti nell'ordine in cui si presentano sullo schermo da sinistra a destra e dall'alto in basso.
   Per ciascun modulo, bisognerà dapprima seguire tutte le video lezioni che esso prevede.
   Successivamente, occorrerà risolvere tutte le challenge che esso contiene. 
 type: topic
 
 modules:
 
-
+- import:
+    dojo: welcome
+    module: welcome
 
 - id: reverse-engineering
 
