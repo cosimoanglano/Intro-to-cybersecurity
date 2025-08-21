@@ -18,7 +18,7 @@ modules:
 - import:
     dojo: welcome
     module: welcome
-
+- import:
     dojo: linux-luminarium
     module: hello
 
